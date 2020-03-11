@@ -1,0 +1,2 @@
+# Python-Study
+Hello guys I just started to learn python, I don't have any experience with any language, so go easy on me hehe.  So basically what I am trying to do here is something like if a specific image appears on my screen it will trigger something else, for exemplo in a game a box with a message shows up when my inventory is full so that box with the message will trigger another action, I tried to watch some vídeos and google but still I don't understand. I think I am capturing the screen but it doesn't work the way I want. 
